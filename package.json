@@ -2,6 +2,10 @@
   "name": "backend-server",
   "version": "1.0.0",
   "description": "",
+  "apidoc": {
+    "title": "Custom apiDoc browser title",
+    "url" : "https://api.github.com/v1"
+  },
   "main": "index.js",
   "scripts": {
     "start:dev": "nodemon index.js"

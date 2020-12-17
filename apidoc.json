@@ -1,0 +1,6 @@
+{
+    "name": "API REST Sistema Control Social",
+    "version": "0.1.0",
+    "description": "Lista de APIS del Back End en NodeJS, Express y MongoDB",
+     "url":"http://localhost:3000"
+  }
